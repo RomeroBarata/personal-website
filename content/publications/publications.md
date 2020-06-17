@@ -4,7 +4,7 @@ title = "Publications"
 +++
 
 # 2019
-**de Morais**, **R.**, Le, V., Tran, T., Saha, B., Mansour, M., & Venkatesh, S. (2019, June). [Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos](http://openaccess.thecvf.com/content_CVPR_2019/html/Morais_Learning_Regularity_in_Skeleton_Trajectories_for_Anomaly_Detection_in_Videos_CVPR_2019_paper.html). In _2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'19)_ (pp. 11996--12004).
+**de Morais**, **R.**, Le, V., Tran, T., Saha, B., Mansour, M., & Venkatesh, S. (2019, June). [Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos](http://openaccess.thecvf.com/content_CVPR_2019/html/Morais_Learning_Regularity_in_Skeleton_Trajectories_for_Anomaly_Detection_in_Videos_CVPR_2019_paper.html). In _2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'19)_ (pp. 11988--11996).
 
 **de Morais**, **R.**, & Vasconcelos, G. (2019, February). [Boosting the Performance of Over-Sampling Algorithms through Under-Sampling the Minority Class](https://www.sciencedirect.com/science/article/pii/S0925231219301584). _Neurocomputing, 343_, 3--18.
 
