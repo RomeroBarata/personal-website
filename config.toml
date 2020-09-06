@@ -8,7 +8,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "Romero Morais"
 title = "Romero Morais"
-disqusshortname = ""
+disqusshortname = "rfabm"
 pluralizelisttitles = false
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
