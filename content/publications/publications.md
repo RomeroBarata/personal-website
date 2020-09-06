@@ -3,6 +3,9 @@ date = "2018-07-06"
 title = "Publications"
 +++
 
+# 2020
+**de Morais**, **R.**, Le, V., Tran, T., & Venkatesh, S. (2020, September). [Learning to Abstract and Predict Human Actions](https://www.bmvc2020-conference.com/assets/papers/0979.pdf). In _2020 British Machine Vision Conference (BMVC'20)_.
+
 # 2019
 **de Morais**, **R.**, Le, V., Tran, T., Saha, B., Mansour, M., & Venkatesh, S. (2019, June). [Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos](http://openaccess.thecvf.com/content_CVPR_2019/html/Morais_Learning_Regularity_in_Skeleton_Trajectories_for_Anomaly_Detection_in_Videos_CVPR_2019_paper.html). In _2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'19)_ (pp. 11988--11996).
 
