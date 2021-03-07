@@ -3,6 +3,9 @@ date = "2018-07-06"
 title = "Publications"
 +++
 
+# 2021
+**de Morais**, **R.**, Le, V., Venkatesh, S., & Tran, T. (2021, June). [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://arxiv.org/abs/2103.02758). Accepted for publication in _2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)_.
+
 # 2020
 **de Morais**, **R.**, Le, V., Tran, T., & Venkatesh, S. (2020, September). [Learning to Abstract and Predict Human Actions](https://www.bmvc2020-conference.com/conference/papers/paper_0979.html). In _2020 British Machine Vision Conference (BMVC'20)_.
 
