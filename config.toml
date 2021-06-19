@@ -10,7 +10,8 @@ author = "Romero Morais"
 title = "Romero Morais"
 disqusshortname = "rfabm"
 pluralizelisttitles = false
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$",
+               "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [permalinks]
 blog = "blog/:slug/"
@@ -55,3 +56,9 @@ type = "#97d28b"
 special = "#ffcb8d"
 value = "#96c2d7"
 statement = "#ff8e91"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
