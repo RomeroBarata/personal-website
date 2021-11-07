@@ -4,13 +4,13 @@ title = "Publications"
 +++
 
 # 2021
-<span style='color:green'>[C06]</span> **Romero Morais**, Vuong Le, Svetha Venkatesh, & Truyen Tran (2021, June). [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Morais_Learning_Asynchronous_and_Sparse_Human-Object_Interaction_in_Videos_CVPR_2021_paper.html). In _2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)_.
+<span style='color:green'>[C06]</span> **Romero Morais**, Vuong Le, Svetha Venkatesh, & Truyen Tran (2021, June). [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Morais_Learning_Asynchronous_and_Sparse_Human-Object_Interaction_in_Videos_CVPR_2021_paper.html). In _2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)_ (pp. 16041--16050). IEEE.
 
 # 2020
 <span style='color:green'>[C05]</span> **Romero Morais**, Vuong Le, Truyen Tran, & Svetha Venkatesh (2020, September). [Learning to Abstract and Predict Human Actions](https://www.bmvc2020-conference.com/conference/papers/paper_0979.html). In _2020 British Machine Vision Conference (BMVC'20)_.
 
 # 2019
-<span style='color:green'>[C04]</span> **Romero Morais**, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, & Svetha Venkatesh (2019, June). [Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos](http://openaccess.thecvf.com/content_CVPR_2019/html/Morais_Learning_Regularity_in_Skeleton_Trajectories_for_Anomaly_Detection_in_Videos_CVPR_2019_paper.html). In _2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'19)_ (pp. 11988--11996).
+<span style='color:green'>[C04]</span> **Romero Morais**, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, & Svetha Venkatesh (2019, June). [Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos](http://openaccess.thecvf.com/content_CVPR_2019/html/Morais_Learning_Regularity_in_Skeleton_Trajectories_for_Anomaly_Detection_in_Videos_CVPR_2019_paper.html). In _2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'19)_ (pp. 11988--11996). IEEE.
 
 <span style='color:red'>[J01]</span> **Romero Morais** & Germano Vasconcelos (2019, February). [Boosting the Performance of Over-Sampling Algorithms through Under-Sampling the Minority Class](https://www.sciencedirect.com/science/article/pii/S0925231219301584). _Neurocomputing, 343_, 3--18.
 
