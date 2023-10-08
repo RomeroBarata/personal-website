@@ -2,6 +2,8 @@
 date = "2018-07-06"
 title = "Publications"
 +++
+# 2023
+<span style='color:red'>[J02]</span> **Romero Morais**, Vuong Le, Catherine Morgan, Alicia Spittle, Nadia Badawi, Jane Valentine, Elizabeth M Hurrion, Paul A Dawson, Truyen Tran, & Svetha Venkatesh (2023, October). [Robust and Interpretable General Movement Assessment Using Fidgety Movement Detection](https://ieeexplore.ieee.org/document/10195984). _IEEE Journal of Biomedical and Health Informatics, 27_(10), 5042--5053.
 
 # 2021
 <span style='color:green'>[C06]</span> **Romero Morais**, Vuong Le, Svetha Venkatesh, & Truyen Tran (2021, June). [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Morais_Learning_Asynchronous_and_Sparse_Human-Object_Interaction_in_Videos_CVPR_2021_paper.html). In _2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)_ (pp. 16041--16050). IEEE.
