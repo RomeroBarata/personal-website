@@ -2,7 +2,7 @@
 date = "2018-06-10"
 title = "About"
 +++
-My name is Romero Morais and I am an Associate Research Fellow with the [Applied Artificial Intelligence Institute](https://a2i2.deakin.edu.au/) (A2I2 / Deakin University). My main area of research is in human behaviour understanding in computer vision.
+My name is Romero Morais and I am a Research Fellow with the [Applied Artificial Intelligence Institute](https://a2i2.deakin.edu.au/) (A2I2 / Deakin University). My main area of research is in human behaviour understanding in computer vision.
 
 I obtained my PhD from Deakin University under the supervision of Dr. [Vuong Le](https://vuongle2.github.io/) and Prof. [Truyen Tran](https://truyentran.github.io/index.html).
 
