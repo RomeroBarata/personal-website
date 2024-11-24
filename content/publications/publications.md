@@ -2,6 +2,9 @@
 date = "2018-07-06"
 title = "Publications"
 +++
+# 2024
+<span style='color:red'>[J03]</span> **Romero Morais**, Truyen Tran, Caroline Alexander, Natasha Amery, Catherine Morgan, Alicia Spittle, Vuong Le, Nadia Badawi, Alison Salt, Jane Valentine, Catherine Elliott, Elizabeth M Hurrion, Paul A Dawson, & Svetha Venkatesh (2024, October). [Fine-grained Fidgety Movement Classification using Active Learning](https://ieeexplore.ieee.org/document/10704950). _IEEE Journal of Biomedical and Health Informatics_.
+
 # 2023
 <span style='color:red'>[J02]</span> **Romero Morais**, Vuong Le, Catherine Morgan, Alicia Spittle, Nadia Badawi, Jane Valentine, Elizabeth M Hurrion, Paul A Dawson, Truyen Tran, & Svetha Venkatesh (2023, October). [Robust and Interpretable General Movement Assessment Using Fidgety Movement Detection](https://ieeexplore.ieee.org/document/10195984). _IEEE Journal of Biomedical and Health Informatics, 27_(10), 5042--5053.
 
